@@ -54,7 +54,9 @@ const newGreeting = function(name){
 //Name it finalGreeting.
 
 //Code Here
-
+const finalGreeting = (name) => { 
+  return "Hello, " + name 
+}
 //////////////////PROBLEM 9////////////////////
 
 //Create an array called groceries with the values
